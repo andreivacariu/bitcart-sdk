@@ -1,6 +1,6 @@
 from universalasync import async_to_sync
 
-from .coins import BCH, BNB, BTC, COINS, ETH, GRS, LTC, MATIC, TRX, XMR, XRG  # noqa: F401
+from .coins import BCH, BNB, BTC, COINS, ETH, GRS, LTC, MATIC, SOL, TRX, XMR, XRG  # noqa: F401
 from .errors import errors
 from .manager import APIManager
 from .providers.jsonrpcrequests import RPCProxy

@@ -48,6 +48,13 @@ TRON (TRX) support is based on our custom daemon implementation which tries to f
 
 ::: bitcart.coins.trx.TRX
 
+### Solana (SOL)
+
+Solana (SOL) support is based on our custom daemon implementation which tries to follow electrum APIs as closely as possible.
+USDC and USDT are supported by passing the token mint address as `contract`
+
+::: bitcart.coins.sol.SOL
+
 ### XRG
 
 XRG supports Schnorr signatures, they are enabled out of the box

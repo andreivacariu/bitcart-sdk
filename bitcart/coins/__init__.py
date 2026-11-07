@@ -5,6 +5,7 @@ from .eth import ETH
 from .grs import GRS
 from .ltc import LTC
 from .matic import MATIC
+from .sol import SOL
 from .trx import TRX
 from .xmr import XMR
 from .xrg import XRG
@@ -18,6 +19,7 @@ COINS = {
     "LTC": LTC,
     "MATIC": MATIC,
     "TRX": TRX,
+    "SOL": SOL,
     "XRG": XRG,
     "GRS": GRS,
 }

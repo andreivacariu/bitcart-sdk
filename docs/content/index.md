@@ -42,6 +42,7 @@ Supported coins list (:zap: means lightning is supported):
 - Binance coin (BNB)
 - Polygon (MATIC)
 - Tron (TRX)
+- Solana (SOL)
 - Ergon
 - Litecoin (:zap:)
 - Groestlcoin (:zap:)

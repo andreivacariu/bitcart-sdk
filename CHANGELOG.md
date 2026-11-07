@@ -2,6 +2,8 @@
 
 ## Latest changes
 
+Add Solana (SOL) coin
+
 ## 1.19.5.0
 
 Add `public` argument to `open_channel` method to open public channels (experimental in Electrum)

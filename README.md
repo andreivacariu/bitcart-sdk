@@ -15,6 +15,7 @@ Coins support(⚡ means lightning is supported):
 - Binance coin (BNB)
 - Polygon (MATIC)
 - Tron (TRX)
+- Solana (SOL)
 - Ergon
 - Litecoin (⚡)
 - Groestlcoin (⚡)
